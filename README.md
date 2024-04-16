@@ -24,7 +24,8 @@
 
 
 <h3><strong>Backend</strong></h3>
-<img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=6DB33F"/> 
+<img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=FFF"/> 
+<img src="https://img.shields.io/badge/springsecurity-green?style=for-the-badge&logo=springsecurity&logoColor=FFF"/> 
 <img src="https://img.shields.io/badge/java 17-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=FFF"/> 
 
