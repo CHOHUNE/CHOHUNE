@@ -1,6 +1,6 @@
 <div align="center">
 
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=CHO%20HUNE%20GitHub.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=%20HUNE%20GitHub.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 <h2>안녕하세요. 정진하는 백엔드 개발자 조대훈 입니다.</h2>
 
