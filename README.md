@@ -48,4 +48,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOHUNE&show_icons=true&theme=shadow_blue)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/CHOHUNE"
+  width="600"
+  height="300"
+/>
+</a>
+
 </div>
