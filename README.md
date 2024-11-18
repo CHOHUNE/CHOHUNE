@@ -46,13 +46,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHOHUNE&layout=compact&theme=shadow_blue"/>
 
 
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/CHOHUNE?pet-id=646257140195123365"
+    src="https://render.gitanimals.org/lines/CHOHUNE?pet-id=646258282631262971"
     width="600"
     height="120"
   />
 </a>
+  
   
 
 </div>
