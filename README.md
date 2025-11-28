@@ -38,7 +38,7 @@
 <img src="http://mazassumnida.wtf/api/generate_badge?boj=yuureru" alt="Solved.ac Profile" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHOHUNE&layout=compact&theme=shadow_blue"/>
-
+<br/>
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/CHOHUNE?pet-id=646258282631262971"
