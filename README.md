@@ -35,9 +35,7 @@
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFF"/>
 
 <br/>
-<br/>
 [![Solved.ac Profile](<http://mazassumnida.wtf/api/generate_badge?boj=yuureru>)](https://solved.ac/yuureru)
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHOHUNE&layout=compact&theme=shadow_blue"/>
 
 <a href="https://github.com/devxb/gitanimals">
