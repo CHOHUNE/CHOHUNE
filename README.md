@@ -36,7 +36,7 @@
 
 <br/>
 <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yuureru)](https://solved.ac/yuureru)
+[![Solved.ac Profile](<http://mazassumnida.wtf/api/generate_badge?boj=yuureru>)](https://solved.ac/yuureru)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHOHUNE&layout=compact&theme=shadow_blue"/>
 
